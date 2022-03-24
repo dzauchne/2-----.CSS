@@ -1,0 +1,35 @@
+body {
+    background-image: url(images/cat.png);
+    width: 1000px;
+    background-size: cover;
+    font-family: Tahoma;
+    color: white;
+    text-decoration-line: none;
+}
+
+main {
+    width: 750px;
+    margin-left: 20px;
+}
+
+h2 {
+    font-weight: bold;
+    text-align: left;
+    background-image: linear-gradient(to top, rgb(241, 89, 89), brown, black);
+}
+
+h1 {
+    font-weight: bold;
+    text-align: left;
+    text-transform: undercase;
+}
+
+url {
+    font-weight: normal;
+    padding-left: 30;
+}
+
+p {
+    font-weight: normal;
+    text-align: left;
+}
